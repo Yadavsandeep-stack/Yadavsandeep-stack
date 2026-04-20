@@ -33,7 +33,7 @@ class SandeepYadav:
         self.name        = "Sandeep Yadav"
         self.role        = "Full Stack Developer & CS Student"
         self.university  = "NIT Jalandhar (B.Tech CSE, 2024–2028)"
-        self.cgpa        = "7.86 / 10  |  Top 20% of class"
+        self.cgpa        = "Top 20% of class"
         self.location    = "Alwar, Rajasthan, India 🇮🇳"
         self.languages   = ["Python", "JavaScript", "C++", "C"]
         self.interests   = ["Scalable Systems", "Cloud Deployment",
@@ -167,7 +167,7 @@ me.say_hi()
 | 💻 **LeetCode** | 200+ problems — Arrays, Trees, DP, Graphs |
 | ⚔️ **Codeforces** | Rated competitive programmer · 5+ contests · Handle: `sandeepy.cs.24` |
 | 🥈 **Security Bootcamp** | 2nd Place — IIT Jammu × NIT Jalandhar Mobile Security Bootcamp |
-| 🎓 **Academic Rank** | Top 20% of class by CGPA (7.86/10) |
+| 🎓 **Academic Rank** | Top 20% of class  |
 
 ---
 
@@ -183,7 +183,7 @@ me.say_hi()
 
 **B.Tech — Computer Science & Engineering**
 🏛️ NIT Jalandhar (Dr. B.R. Ambedkar National Institute of Technology) · `2024 – 2028`
-📊 CGPA: **7.86 / 10** (GPA: 3.14/4) · Top 20% of class
+📊 Top 20% of class
 
 > *Relevant Coursework: Data Structures & Algorithms · OOP · DBMS · Computer Networks · Operating Systems*
 
